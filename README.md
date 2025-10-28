@@ -5,7 +5,7 @@ This project showcases my work on querying a **collection of restaurants in USA*
 
 ## Project Structure
 - `restaurants.json`: Original dataset of NYC restaurants.  
-- `queries.js`: Document containing all MongoDB queries, tested in Compass and executed in IntelliJ IDEA.  
+- `restaurants.js`: Document containing all MongoDB queries, tested in Compass and executed in IntelliJ IDEA.  
 
 ## Skills Demonstrated
 The queries cover multiple aspects of MongoDB operations:
@@ -43,6 +43,6 @@ The queries cover multiple aspects of MongoDB operations:
 ## Resources
 - Original database: `restaurants.json`  
 - Query testing: **MongoDB Compass**  
-- Query implementation and submission: **IntelliJ IDEA** (`queries.js`)
+- Query implementation and submission: **IntelliJ IDEA** (`restaurants.js`)
 
 This project demonstrates practical knowledge in MongoDB querying, including filtering, projection, sorting, array handling, and complex operators.
